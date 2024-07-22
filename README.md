@@ -24,9 +24,5 @@ Installation
 
    ```
    pip install -r requirements.txt
-   ```
 
-
----
-
-Remember to replace placeholders (such as image URLs, your GitHub username, and specific model details) with actual information relevant to your project. Good luck with your cancer cell classification project! 🌟🔬🤖
+   ---
